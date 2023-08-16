@@ -7,11 +7,16 @@
 下载:
 
 - [Release](https://github.com/falcolee/doujin/releases)
+- [国内微云](https://share.weiyun.com/fkOKEygI)
 
 # 抖金-招财猫
 跨平台抖音辅助工具，支持 Mac (Intel, M1, M2), 64位windows 7、10及以上
 
 ## 版本记录
+* V0.1.5发布，快捷操作
+    - 内容快捷搜索
+    - 快捷切换授权
+    - 附加功能模块开关
 * V0.1.4发布，搜索功能
     - 顶部搜索栏搜索抖音号快捷导入
     - 直播监控功能增强
