@@ -1,6 +1,6 @@
 {
   "name": "doujin",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "抖金，一款抖音综合辅助工具，集成粉丝同步、交叉共同粉丝分析、批量拉黑、直播监控等实用工具",
   "scripts": {
     "release-f": "standard-version -f",
