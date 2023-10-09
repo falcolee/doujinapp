@@ -101,8 +101,8 @@
 <img src="assets/screenshot6.png" />
 </p>
 
-## 联系
+## 联系我们
 
 <p align="center" style="text-align: center">
-<img src="assets/contact.jpg" width="240" height="240" />
+<img src="assets/contact.jpg" width="240" />
 </p>
